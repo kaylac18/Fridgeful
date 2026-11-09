@@ -2,6 +2,10 @@
 
 **Less waste. More dinner.** An interactive BUS 659 class prototype.
 
+**[Open the live Fridgeful demo](https://fridgeful-bus659-kayla.tweedychicory1.chatgpt.site)**
+
+The website is viewable by link. This repository is public: anyone can read or fork the source. For direct group editing, the owner should invite teammates under Settings → Collaborators. Website data remains local to each visitor's browser. GitHub changes are not automatically deployed; the hosting owner publishes reviewed revisions.
+
 ## Run locally
 
 Use Node.js 22.13+ (Node 24 recommended).
